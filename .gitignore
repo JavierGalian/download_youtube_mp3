@@ -1,0 +1,46 @@
+# Entorno virtual de Python
+env/
+venv/
+.env/
+ENV/
+
+# Archivos de caché y compilación de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Directorios de salida o descargas locales de prueba
+audio_descargas/
+YouTube MP3/
+*.mp3
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDEs y editores (VS Code / PyCharm)
+.vscode/
+.idea/
+*.swp
+*.swo
